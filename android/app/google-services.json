@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "910095331565",
+    "project_id": "flutter-auth-dfa2f",
+    "storage_bucket": "flutter-auth-dfa2f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:910095331565:android:1874efa6a6edc9ad449ce4",
+        "android_client_info": {
+          "package_name": "com.example.onboarding_screens"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAax9-YLMMpQIdSQZ4CQYcjG3RUyC63pEE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
